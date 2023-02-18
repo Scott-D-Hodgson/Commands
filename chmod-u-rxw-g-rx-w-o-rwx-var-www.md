@@ -9,7 +9,7 @@ Changes the permissions on the `/var/www` folder.  Sets the permissions to the f
 - group: read, execute, but not write
 - other: no read, write, or execute
 
-*Note: Often used to setup the Apache web server to permit the `pi` user to be able to write content to the web site root `/var/www/html`.
+*Note: Often used to setup the Apache web server to permit the `pi` user to be able to write content to the web site root `/var/www/html`.*
 
 ---
 **Source:** [Raspberry Pi Forum: /var/www/html permissions](https://forums.raspberrypi.com/viewtopic.php?t=155067)

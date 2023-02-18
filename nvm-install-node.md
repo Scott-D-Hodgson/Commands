@@ -6,4 +6,4 @@ tags: [Node, Node Version Manager, NVM, nvm install]
 Installs the latest version of [Node](https://nodejs.org/en/about) through the [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm) utility.
 
 ---
-**Source: **- [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
+**Source:** [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)

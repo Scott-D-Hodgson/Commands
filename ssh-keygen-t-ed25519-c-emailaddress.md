@@ -5,4 +5,4 @@ tags: [ssh-keygen]
 ---
 Generates a public/private key pair with the Ed25519 digital signature.  Includes the email address in the encoding.
 
-*Note: The inclusion of the email address is preferred for the usage with [GitHub](https://github.com/)
+*Note: The inclusion of the email address is preferred for the usage with [GitHub](https://github.com/)*

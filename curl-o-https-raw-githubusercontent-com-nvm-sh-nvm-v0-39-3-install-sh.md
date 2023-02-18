@@ -6,4 +6,4 @@ tags: [Node Version Manager, NVM, curl, site:githubusercontent.com]
 Downloads the installation script for the [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm).
 
 ---
-**Source: ** [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
+**Source:** [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
